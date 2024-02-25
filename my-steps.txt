@@ -1,0 +1,169 @@
+### Step 2A
+/c/Users/Blitz
+
+### Step 2B
+
+Blitz@DESKTOP-66O7PEH MINGW64 ~
+$ cd OneDrive
+
+Blitz@DESKTOP-66O7PEH MINGW64 ~/OneDrive
+$ cd Desktop
+
+Blitz@DESKTOP-66O7PEH MINGW64 ~/OneDrive/Desktop
+
+### Step 2C
+
+Blitz@DESKTOP-66O7PEH MINGW64 ~/OneDrive/Desktop
+$ cd unit1-git-practice/
+
+
+### Step 2D
+
+Blitz@DESKTOP-66O7PEH MINGW64 ~/OneDrive/Desktop/unit1-git-practice
+$ pwd
+/c/Users/Blitz/OneDrive/Desktop/unit1-git-practice
+
+
+### Step 2E
+Blitz@DESKTOP-66O7PEH MINGW64 ~/OneDrive/Desktop/unit1-git-practice
+$ ls
+
+### Step 2F
+my-steps.txt
+
+
+### Step 2G
+Blitz@DESKTOP-66O7PEH MINGW64 /
+$ cd /
+
+### Step 2H
+Blitz@DESKTOP-66O7PEH MINGW64 /
+$ pwd
+/
+
+### Step 2I
+Blitz@DESKTOP-66O7PEH MINGW64 /
+$ ls
+LICENSE.txt        cmd/  git-bash.exe*  proc/         unins000.exe*
+ReleaseNotes.html  dev/  git-cmd.exe*   tmp/          unins000.msg
+bin/               etc/  mingw64/       unins000.dat  usr/
+
+### Step 2J
+Blitz@DESKTOP-66O7PEH MINGW64 /
+$ cd ~
+
+
+### Step 2K
+Blitz@DESKTOP-66O7PEH MINGW64 ~
+$ cd OneDrive
+
+Blitz@DESKTOP-66O7PEH MINGW64 ~/OneDrive
+$ cd Desktop
+
+Blitz@DESKTOP-66O7PEH MINGW64 ~/OneDrive/Desktop
+$ cd unit1-git-practice/
+
+### Step 3A
+Blitz@DESKTOP-66O7PEH MINGW64 ~/OneDrive/Desktop/unit1-git-practice
+$ mkdir veggies
+
+Blitz@DESKTOP-66O7PEH MINGW64 ~/OneDrive/Desktop/unit1-git-practice
+$ mkdir meats
+
+Blitz@DESKTOP-66O7PEH MINGW64 ~/OneDrive/Desktop/unit1-git-practice
+$ mkdir desserts
+
+
+### Step 3B
+Blitz@DESKTOP-66O7PEH MINGW64 ~/OneDrive/Desktop/unit1-git-practice
+$ mv desserts sweets
+
+
+### Step 3C
+Blitz@DESKTOP-66O7PEH MINGW64 ~/OneDrive/Desktop/unit1-git-practice
+$ mkdir proteins
+
+
+### Step 3D
+Blitz@DESKTOP-66O7PEH MINGW64 ~/OneDrive/Desktop/unit1-git-practice
+$ mv meats ~/OneDrive/Desktop/unit1-git-practice/proteins/
+
+
+### Step 3E
+Blitz@DESKTOP-66O7PEH MINGW64 ~/OneDrive/Desktop/unit1-git-practice/veggies
+$ touch carrot.txt
+
+Blitz@DESKTOP-66O7PEH MINGW64 ~/OneDrive/Desktop/unit1-git-practice/veggies
+$ touch pea.txt
+
+
+### Step 3F
+Blitz@DESKTOP-66O7PEH MINGW64 ~/OneDrive/Desktop/unit1-git-practice/veggies
+$ cd ..
+
+Blitz@DESKTOP-66O7PEH MINGW64 ~/OneDrive/Desktop/unit1-git-practice
+$ ls
+my-steps.txt  proteins/  sweets/  veggies/
+
+Blitz@DESKTOP-66O7PEH MINGW64 ~/OneDrive/Desktop/unit1-git-practice
+$ cd sweets
+
+Blitz@DESKTOP-66O7PEH MINGW64 ~/OneDrive/Desktop/unit1-git-practice/sweets
+$ touch cookie.txt
+
+
+### Step 3G
+Blitz@DESKTOP-66O7PEH MINGW64 ~/OneDrive/Desktop/unit1-git-practice/sweets
+$ mv cookie.txt donut.txt
+
+
+### Step 3H
+Blitz@DESKTOP-66O7PEH MINGW64 ~/OneDrive/Desktop/unit1-git-practice/sweets
+$ cd ..
+
+Blitz@DESKTOP-66O7PEH MINGW64 ~/OneDrive/Desktop/unit1-git-practice
+$ touch thing.txt
+
+
+### Step 3I
+Blitz@DESKTOP-66O7PEH MINGW64 ~/OneDrive/Desktop/unit1-git-practice
+$ cp thing.txt tofu.txt
+
+
+### Step 3J
+Blitz@DESKTOP-66O7PEH MINGW64 ~/OneDrive/Desktop/unit1-git-practice
+$ mv tofu.txt ~/OneDrive/Desktop/unit1-git-practice/proteins/
+
+### Step 3K
+Blitz@DESKTOP-66O7PEH MINGW64 ~/OneDrive/Desktop/unit1-git-practice
+$ mv crab.txt ~/OneDrive/Desktop/unit1-git-practice/proteins/meats/
+
+
+### Step 3L
+Blitz@DESKTOP-66O7PEH MINGW64 ~/OneDrive/Desktop/unit1-git-practice
+$ rm thing.txt
+
+
+### Step 3M
+Blitz@DESKTOP-66O7PEH MINGW64 ~/OneDrive/Desktop/unit1-git-practice
+$ cp -r veggies/ plants
+
+
+### Step 3N
+Blitz@DESKTOP-66O7PEH MINGW64 ~/OneDrive/Desktop/unit1-git-practice
+$ mkdir drinks
+
+Blitz@DESKTOP-66O7PEH MINGW64 ~/OneDrive/Desktop/unit1-git-practice
+$ rm -r drinks
+
+### Step 4
+
+
+### Step 5
+
+
+### Step 6
+
+
+### Step 7
+*** DO NOT RECORD STEP 7 ***
