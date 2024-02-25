@@ -157,9 +157,25 @@ Blitz@DESKTOP-66O7PEH MINGW64 ~/OneDrive/Desktop/unit1-git-practice
 $ rm -r drinks
 
 ### Step 4
+Blitz@DESKTOP-66O7PEH MINGW64 ~/OneDrive/desktop/unit1-git-practice
+$ git init
+Initialized empty Git repository in C:/Users/Blitz/OneDrive/Desktop/unit1-git-practice/.git/
 
 
 ### Step 5
+Blitz@DESKTOP-66O7PEH MINGW64 ~/OneDrive/desktop/unit1-git-practice (master)
+$ git remote add origin https://github.com/AdamPalmer1988/unit1-git-practice.git
+git branch -M main
+git push -u origin main
+Enumerating objects: 8, done.
+Counting objects: 100% (8/8), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (5/5), done.
+Writing objects: 100% (8/8), 1.12 KiB | 575.00 KiB/s, done.
+Total 8 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/AdamPalmer1988/unit1-git-practice.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
 
 
 ### Step 6
