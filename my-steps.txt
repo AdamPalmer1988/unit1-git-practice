@@ -179,6 +179,12 @@ branch 'main' set up to track 'origin/main'.
 
 
 ### Step 6
+BBlitz@DESKTOP-66O7PEH MINGW64 ~/OneDrive/desktop/unit1-git-practice (main)
+$ git commit -m "starting a menu"
+[main 50beb87] starting a menu
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 menu.txt
+
 
 
 ### Step 7
